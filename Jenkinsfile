@@ -33,7 +33,7 @@ pipeline {
             {
                 script 
                 {
-                    git 'https://github.com/intelliqittrainings/FunctionalTesting.git'
+                    git 'https://github.com/imranbasha0321/AMIgit.git'
                     sh 'java -jar /var/lib/jenkins/workspace/descriptivepipeline/testing.jar'
                 }
             }
