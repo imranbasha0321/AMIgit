@@ -6,7 +6,7 @@ pipeline {
          steps{
              
            script {
-                git 'https://github.com/intelliqittrainings/maven.git'
+                git 'https://github.com/imranbasha0321/AMIgit.git'
             }
             }
         }
